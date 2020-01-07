@@ -222,7 +222,7 @@ button{
     margin-bottom: 50px;
     opacity: .5;
 }
-.menu-icons a{
+.menu-icons .col-sm a{
     position: absolute;
     bottom: 0;
     left: 50%;
